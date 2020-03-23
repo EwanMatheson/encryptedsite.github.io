@@ -53,7 +53,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-permalink: "/privacy/3da541559918a808c2402bba5012f6c60b27661c/:title:output_ext"
+permalink: "/privacy/20ce467828d1c2209f937fc716ca8fbbf2752904/:title:output_ext"
 
 # SEO Related
 google_site_verification :
