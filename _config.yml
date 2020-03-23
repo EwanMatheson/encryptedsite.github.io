@@ -15,7 +15,7 @@ title_separator          : "-"
 name                     : &name "Ewan Matheson"
 description              : &description "PhD Student in Physics"
 url                      : https://ewanmatheson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/privacy" # the subpath of your site, e.g. "/blog"
 repository               : "EwanMatheson/ewanmatheson.github.io"
 logo                     : "/images/ReNUlogo2.jpg"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -52,6 +52,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+
+permalink: "/privacy/3da541559918a808c2402bba5012f6c60b27661c/:title:output_ext"
 
 # SEO Related
 google_site_verification :
