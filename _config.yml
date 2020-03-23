@@ -179,6 +179,7 @@ kramdown:
 
 # Collections
 collections:
+  - protected
   teaching:
     output: true
     permalink: /:collection/:path/
