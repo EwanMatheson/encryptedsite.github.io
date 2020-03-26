@@ -93,11 +93,11 @@ div.vertical {
 
 		var hash= OFgvG16W4AD114Zm;
 		hash= Sha1.hash(OFgvG16W4AD114Zm);
-		var url= hash + "/_config.yml";
+		var url= hash;
 
 		$.ajax({
 			url : url,
-			dataType : "yml",
+			//dataType : "html",
 			success : function(data) {
 
 				window.location= url;
