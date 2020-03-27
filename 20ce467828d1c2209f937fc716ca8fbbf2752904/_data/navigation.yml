@@ -1,25 +1,12 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-
-  - title: "GCMC Simulations"
-    url: /coding/
-
-  - title: "Experimental"
-    url: /non-menu-page/
-  
-  - title: "Encryption"
-    url: /encryption/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
